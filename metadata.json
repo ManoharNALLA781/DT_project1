@@ -1,0 +1,7 @@
+{
+  "name": "Face Recognition Attendance System",
+  "description": "An automated attendance system using real-time face recognition, built with React, Express, and SQLite.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
